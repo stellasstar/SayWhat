@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SayWhat!</string>
+    <string name="app_name">SayWhat</string>
+    <string name="insult">*bzzt*\nYou\'re not very good at this, are you?</string>
+    <string name="voice_recognition_prompt">What would you like to translate from English?</string>
+    <string name="speak_button">Speak</string>
+    <string name="fmbut">From</string>
+    <string name="tobut">To</string>
+    
+       <!--  TranslateActivity -->
+    <string name="from">English</string>
+    <string name="reset">Reset</string>
+    <string name="translate_activity">Translate</string>
+    <string name="button_translate">Retry</string>
+    <string name="retry">Retry</string>
+    <string name="text_to_translate">Set the from language before speaking. \n
+    								Speak example, press mic to start\n 
+    								Where is the kitchen? Spanish \n
+    								The last word spoken is your target language. \n
+    								</string>
+    <string name="languages">Languages</string>
+    
+</resources>

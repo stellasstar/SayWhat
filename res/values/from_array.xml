@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="from_langs">
+        <item>Chinese</item>
+        <item>English - CA</item>
+        <item>English - UK</item>
+        <item>English - US</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Japanese</item>
+    </string-array>
+        <string-array name="from_codes">
+        <item>zh</item>
+        <item>en_CA</item>
+        <item>en_GB</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>ja</item>
+    </string-array>
+    <array name="from_flags">
+        <item>@drawable/ch</item>
+        <item>@drawable/can</item>
+        <item>@drawable/en</item>
+        <item>@drawable/us</item>
+        <item>@drawable/fr</item>
+        <item>@drawable/de</item>
+        <item>@drawable/ja</item>
+    </array>
+    <string-array name="locs">
+        <item>Locale.CHINESE</item>
+        <item>Locale.CANADA</item>
+        <item>Locale.UK</item>
+        <item>Locale.US</item>
+        <item>Locale.FRENCH</item>
+        <item>Locale.GERMAN</item>
+        <item>Locale.JAPANESE</item>
+    </string-array>
+</resources>
